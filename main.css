@@ -1364,6 +1364,18 @@ footer {
 }
 
 @media (max-width:576px) {
+    .text {
+        margin-top: 70%;
+    }
+    .text h2 {
+        font-size: 32px;
+    }
+    .text p {
+        font-size: 16px;
+    }
+    .text a {
+        font-size: 14px;
+    }
     #slider {
         margin-top: 0px;
         color: #14213D;
